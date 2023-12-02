@@ -7,6 +7,7 @@
     },
     "currency": {
         "kh": "Riel",
-        "en": "USD"
+        "en": "USD",
+        "currency": "រូបិយប័ណ្ណ"
     }
 }
